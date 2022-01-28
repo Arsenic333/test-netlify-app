@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-    <link rel="stylesheet" href="img.png">
+    <link rel="stylesheet" href="png-clipart-shrek-shrek.png">
         <Header title="Hey Dawit!" />
         <p className="description">
           arib fat lol</code>
