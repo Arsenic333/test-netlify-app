@@ -11,7 +11,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Hey Dowit!" />
+    <link rel="stylesheet" href="img.png">
+        <Header title="Hey Dawit!" />
         <p className="description">
           arib fat lol</code>
         </p>
